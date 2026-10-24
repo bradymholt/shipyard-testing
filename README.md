@@ -16,4 +16,10 @@ Output:
 Hello, world!
 ```
 
+Pass a name to greet someone specific:
+
+```sh
+npm start -- Alice
+```
+
 No dependencies or build step are required.
