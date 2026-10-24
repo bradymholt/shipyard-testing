@@ -1,4 +1,21 @@
 # shipyard-testing
-shipyard-testing
 
-Testing the review request workflow.
+A simple hello world app that runs in Node.js.
+
+This repo also tests the review request workflow.
+
+## Run
+
+Install Node.js (which includes npm), then run from the repository directory:
+
+```sh
+npm start
+```
+
+Output:
+
+```text
+Hello, world!
+```
+
+No dependencies or build step are required.
