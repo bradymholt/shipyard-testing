@@ -1,6 +1,6 @@
 # shipyard-testing
 
-A simple Hello World app that runs in Node.js.
+A simple hello world app that runs in Node.js.
 
 This repo is also used to test the pull request review workflow: opening PRs, requesting reviews, and responding to review comments.
 
