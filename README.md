@@ -12,7 +12,7 @@ Install Node.js (which includes npm), then run from the repository directory:
 npm start
 ```
 
-Output:
+Outputsz:
 
 ```text
 Hello, world!
