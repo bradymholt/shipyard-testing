@@ -1,2 +1,2 @@
-const name = process.argv
-console.log(`Hello, ${name}!`);
+const name = process.argv[2] || "world";
+console.log(`Hello, ${name}!!!`);
