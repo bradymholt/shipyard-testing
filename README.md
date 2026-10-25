@@ -18,4 +18,16 @@ Output:
 Hello, world!
 ```
 
+Pass a name after `--` (npm forwards everything after it to the script):
+
+```sh
+npm start -- Alice
+```
+
+Output:
+
+```text
+Hello, Alice!
+```
+
 No dependencies or build step are required.
