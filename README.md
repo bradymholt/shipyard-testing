@@ -31,3 +31,5 @@ Hello, Alice!
 ```
 
 No dependencies or build step are required.
+
+Copyright 2026 Brady Holt
